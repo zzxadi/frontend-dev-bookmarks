@@ -32,7 +32,10 @@
   + [UglifyJS](http://marijnhaverbeke.nl/uglifyjs) 在线js压缩工具
 
 + 书籍
-  
+  + [CSS权威指南](http://book.douban.com/subject/1240134/) 权威指南的书，水准都有保证，适合度也很广
+  + [精通CSS](http://book.douban.com/subject/4736167/) CSS权威指南作为入门和参考书籍比较好，入门后进阶可以看着一本书
+  + [JavaScript高级程序设计](http://book.douban.com/subject/10546125/) 我的JS入门书，从浅到深，讲得很详细，五星推荐
+  + [JavaScript权威指南](http://book.douban.com/subject/10549733/)
 
 
 
