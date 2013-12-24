@@ -1,5 +1,7 @@
 # 前端开发书签
 
+做这份文档本来是看了英文版的[前端书签](https://github.com/dypsilon/frontend-dev-bookmarks?source=cc),后来发现了中文版有两个类似的，[justjavac](https://github.com/justjavac/free-programming-books-zh_CN)和[JacksonTian](https://github.com/JacksonTian/fks)，首先严重推荐他们的，然后有空我也会更新。
+
 + HTML
   + [HTML教程](http://www.w3school.com.cn/html/) W3C入门教程
   + [HTML语义化](http://justineo.github.io/slideshows/semantic-html/) 一定要了解，否则很容易标签乱用
