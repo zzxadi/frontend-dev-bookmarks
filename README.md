@@ -28,6 +28,7 @@
 + 前端知识
   + [响应式Web设计](http://beforweb.com/node/6) 看起来高大上，其实很容易理解实践
   + [BEM的定义](http://www.w3cplus.com/css/bem-definitions.html) 只了解，没用过
+  + [Shadow DOM](http://www.toobug.net/article/what_is_shadow_dom.html) 理解Web Components必须先理解Shadow DOM
   + [Fiddler 教程](http://www.cnblogs.com/tankxiao/archive/2012/02/06/2337728.html) 必备神器，每天必用，要是界面更友好点就更好了。
   + [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/) 浏览器对于我们一直是一个黑箱，通读这篇文章可以窥一孔。
   + [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/) 发现很多前端竟然不知道console.log()和debugger，出了错几乎一遍遍修改源文件。
