@@ -24,6 +24,7 @@
   + [jQuery的deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
   + [jQuery源码分析](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
   + [jQuery 2.0.3 源码分析系列](http://www.cnblogs.com/aaronjs/p/3279314.html) 刚开始我也在写jQuery分析，后来看到他的，就没写了，写得比我好太多。
+  + [jQuery Coding Standards & Best Practices](http://lab.abhinayrathore.com/jquery-standards/) 一直觉得语言的规范文档是值得反复看的
 
 + 前端知识
   + [响应式Web设计](http://beforweb.com/node/6) 看起来高大上，其实很容易理解实践
@@ -32,6 +33,7 @@
   + [Fiddler 教程](http://www.cnblogs.com/tankxiao/archive/2012/02/06/2337728.html) 必备神器，每天必用，要是界面更友好点就更好了。
   + [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/) 浏览器对于我们一直是一个黑箱，通读这篇文章可以窥一孔。
   + [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/) 发现很多前端竟然不知道console.log()和debugger，出了错几乎一遍遍修改源文件。
+  + [Chrome Developer Tools之调试代码](http://www.kazaff.me/2014/01/14/chrome-developer-tools%E4%B9%8B%E8%B0%83%E8%AF%95%E4%BB%A3%E7%A0%81/)越来越感觉Chrome Dev Tools比FireBug强大很多，现在的IE11也有了很大改进，想更深入的调式，看看他写的这几篇文章吧。
 
 + JS资源
   + [Bootstrap中文文档](http://www.bootcss.com/) 很容易上手，做出的东西不会很丑
